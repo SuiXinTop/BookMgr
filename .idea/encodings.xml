@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Control/BookType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Bookadmin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Bookborrow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Bookreturn.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Connect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/GetDateTime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Loginadm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Loginusr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Rigester.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Control/Selectbook.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/Admin_login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/View/User_alterInfo.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

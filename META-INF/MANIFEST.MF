@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: View.WelcomPart
+Class-Path: org.eclipse.core.commands_3.9.700.v20191217-1850.jar org.ecl
+ ipse.equinox.common_3.12.0.v20200504-1602.jar org.eclipse.ui.workbench_
+ 3.119.0.v20200521-1247.jar org.eclipse.text_3.10.200.v20200428-0633.jar
+  org.eclipse.jface.text_3.16.300.v20200526-0811.jar org.eclipse.equinox
+ .registry_3.8.800.v20200406-0956.jar org.eclipse.jface_3.20.0.v20200505
+ -1952.jar org.eclipse.ui.forms_3.9.100.v20200413-1417.jar mssql-jdbc-9.
+ 2.1.jre11.jar org.eclipse.core.runtime_3.18.0.v20200506-2143.jar common
+ s-dbcp-1.4.jar commons-pool-1.5.6.jar org.eclipse.osgi_3.15.300.v202005
+ 20-1959.jar org.eclipse.swt.win32.win32.x86_64_3.114.100.v20200604-0951
+ .jar com.ibm.icu_64.2.0.v20190507-1337.jar
+
